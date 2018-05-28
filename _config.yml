@@ -1,6 +1,6 @@
 # Site settings
-title: "Center Split holiday rental - Apartment Anamarija"
-email: "anamarija.apartment.split@gmail.com"
+title: Center Split holiday rental - Apartment Anamarija
+email: anamarija.apartment.split@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
